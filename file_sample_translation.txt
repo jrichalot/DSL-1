@@ -1,1 +1,3 @@
+This is a translation file into French
+
 Le fichier en francais
