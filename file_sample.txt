@@ -1,6 +1,3 @@
 creating a file to be versioned
-	creation d'un fichier pour la gestion de versions
 extra content
-	nouveau contenu
 finishing up section
-	fin de section
